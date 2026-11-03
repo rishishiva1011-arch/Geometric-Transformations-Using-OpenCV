@@ -142,31 +142,47 @@ plt.axis('off')
 ## Output
 ### i) Original Image
 
+<img width="1551" height="855" alt="image" src="https://github.com/user-attachments/assets/64f5a02a-ab59-40d6-8f70-a2e74cd4cdec" />
 
+<br>
 
 ### ii) Image Translation
 
+<img width="1542" height="840" alt="image" src="https://github.com/user-attachments/assets/80dc198a-81e4-4f52-ba4d-596e0a253865" />
+
+<br>
 
 
 ### iii) Image Scaling
 
+<img width="1542" height="405" alt="image" src="https://github.com/user-attachments/assets/68d5edb9-d4e1-4dd9-8407-b906b51b104b" />
+
+<br>
 
 
 ### iv) Image Shearing
 
+<img width="1539" height="858" alt="image" src="https://github.com/user-attachments/assets/037fcd33-5970-4866-9c0e-9719721d6111" />
 
+<br>
 
 ### v) Image Reflection
 
+<img width="1554" height="846" alt="image" src="https://github.com/user-attachments/assets/fc3d75f9-da79-475b-8c67-a041fcf010d1" />
 
+<br>
 
 ### vi) Image Rotation
 
+<img width="1533" height="834" alt="image" src="https://github.com/user-attachments/assets/66a4eb74-eb1a-444e-a681-fffd0311c02a" />
 
+<br>
 
 ### vii) Image Cropping
 
+<img width="1512" height="1233" alt="image" src="https://github.com/user-attachments/assets/7e78b35a-b684-4b31-8fe6-7456bf43ccd8" />
 
+<br>
 
 ## Result
 
